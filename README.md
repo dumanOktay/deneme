@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[deneme](example://gizmos)
+[deneme](example://gizmos?name=oktay)
 
 You can use the [editor on GitHub](https://github.com/dumanOktay/deneme/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
