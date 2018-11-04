@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[deneme](example://gizmos?name=oktay)
+[deneme](example://gizmos?token=ef6452a7-fafe-4ee2-b64a-029e96f8df13&h=2)
 
 You can use the [editor on GitHub](https://github.com/dumanOktay/deneme/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
